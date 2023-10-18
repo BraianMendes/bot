@@ -20,7 +20,7 @@ setuptools.setup(
         "ConfigArgParse==1.5.3",
         "PyYAML==6.0",
         "uiautomator2==2.16.14",
-        "urllib3==1.26.7",
+        "urllib3==1.26.18",
         "emoji==1.6.1",
         "langdetect==1.0.9",
         "atomicwrites==1.4.0",
